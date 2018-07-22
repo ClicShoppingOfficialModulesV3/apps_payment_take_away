@@ -15,7 +15,7 @@ http://monsite/myAdmin/index.php?A&Payment\TakeAway
 Activate the module in Payment
 
 See Marketplace for all informations
-link to marketplace : https://www.clicshopping.org/forum/files/file/38-apps-payment-take-away-pick-up/
+link to marketplace : https://www.clicshopping.org/forum/files/file/33-apps-payment-take-away-pick-up/
 
 ![takeaway](https://github.com/ClicShoppingOfficialModulesV3/apps_payment_take_away/blob/master/ModuleInfosJson/takeaway.png)
 
